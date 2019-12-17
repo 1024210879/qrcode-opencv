@@ -15,7 +15,7 @@ qrcode_opencv412.exe ./images/4.jpg
 ## 2. 解压qrcode-opencv412-dll.rar<br>
 ![目录](images/dirs.jpg)
 
-## preview
+# preview
 ![1.jpg](images/1_res.jpg)
 ![2.jpg](images/2_res.jpg)
 ![3.jpg](images/3_res.jpg)
