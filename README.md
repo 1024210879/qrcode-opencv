@@ -16,7 +16,7 @@ qrcode_opencv412.exe ./images/4.jpg
 ![目录](images/dirs.jpg)
 
 ## preview
-![1.jpg](images/1.jpg)
-![2.jpg](images/2.jpg)
-![3.jpg](images/3.jpg)
-![4.jpg](iamges/4.jpg)
+![1.jpg](images/1_res.jpg)
+![2.jpg](images/2_res.jpg)
+![3.jpg](images/3_res.jpg)
+![4.jpg](iamges/4_res.jpg)
