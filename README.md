@@ -19,4 +19,4 @@ qrcode_opencv412.exe ./images/4.jpg
 ![1.jpg](images/1_res.jpg)
 ![2.jpg](images/2_res.jpg)
 ![3.jpg](images/3_res.jpg)
-![4.jpg](iamges/4_res.jpg)
+![4.jpg](images/4_res.jpg)
